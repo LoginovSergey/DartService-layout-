@@ -17,7 +17,7 @@
 }
 /*-----------start header menu---------*/
 .bg-for-header{
-	background: url(../img/bg-header.png);
+	background: url(bg-header.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 750px;
@@ -382,7 +382,7 @@ p.text-color-line {
 /*-----------end our services---------*/
 /*------------start comment-----------*/
 .bg-for-comment-blog {
-	background: url(../img/bg-com.png);
+	background: url(bg-com.png);
 	height: 564px;
 	background-size: cover;
 	background-repeat: no-repeat;
